@@ -1,7 +1,8 @@
 
   # QuickMart Home Screen UI
 
-  This is a code bundle for QuickMart Home Screen UI. 
+  This is a code bundle for QuickMart Home Screen UI.  the project is running on : http://localhost:3000/
+
 
   ## Running the code
 
